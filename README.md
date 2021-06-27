@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola, soy Jairo Torregrosa!
 
-<!--
-**torregrosaj/torregrosaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## EDUCATION
+* B.S. Electronic Engineering Pontificia Universidad Javeriana
+* Data Scientist Correlation One 2019
 
-Here are some ideas to get you started:
+## RESEARCH
+* Paper published at The XXII Symposium on Image & Signal Processing and Artificial Vision 2019 _Comparing state-of-the-art methods of detection and tracking people on security cameras video_ IEEE.
+* Areas of interest: Attention mechanisms for vision and language tasks.
+* Chair of the Signal Processing Society IEEE Chapter - Bogota .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## INTERESTS
+* I like to learn about new cultures.
+* Experienced social volunteer.
+* Making machines compatible with humans.
+* I like space exploration.
+* I care about climate change.
