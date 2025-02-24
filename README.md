@@ -1,17 +1,25 @@
-### Hola, soy Jairo Torregrosa!
+# 👋 Hi, I'm Jairo Torregrosa!  
 
-## EDUCATION
-* B.S. Electronic Engineering Pontificia Universidad Javeriana
-* Data Scientist Correlation One 2019
+## 🏗️ About Me  
+I’m a **Senior Data Scientist** specializing in **Recommender Systems (RecSys)**, building scalable, efficient, and high-performing ML models.  
+Beyond work, I’m passionate about **Edge AI, Small LMs, and local inference**, exploring how to make AI more efficient and accessible beyond the cloud.  
 
-## RESEARCH
-* Paper published at The XXII Symposium on Image & Signal Processing and Artificial Vision 2019 _Comparing state-of-the-art methods of detection and tracking people on security cameras video_ IEEE.
-* Areas of interest: Attention mechanisms for vision and language tasks.
-* Chair of the Signal Processing Society IEEE Chapter - Bogota .
+## 🎓 Education  
+- **B.S. Electronic Engineering** – Pontificia Universidad Javeriana  
+- **Data Scientist Program** – Correlation One (2019)  
 
-## INTERESTS
-* I like to learn about new cultures.
-* Experienced social volunteer.
-* Making machines compatible with humans.
-* I like space exploration.
-* I care about climate change.
+## 📄 Research & Publications  
+- **Paper Published @ IEEE (2019)**:  
+  *Comparing state-of-the-art methods of detection and tracking people on security cameras video* – Presented at **The XXII Symposium on Image & Signal Processing and Artificial Vision**.  
+- **Research Interests**: Attention mechanisms for vision and language tasks.  
+- **IEEE Leadership**: Former **Chair of the Signal Processing Society IEEE Chapter – Bogotá**.  
+
+## 🚀 Interests & Hobbies  
+- **Recommender Systems**, **Ranking Models**, and **Efficient AI**.  
+- Exploring **Edge AI**, **Small LMs**, and **on-device inference**.  
+- Making machines **more compatible with humans**.  
+- Learning about **new cultures** and **space exploration**.  
+- Passionate about **climate change & sustainability**.  
+- Experienced **social volunteer**.  
+
+📫 **Let’s Connect!** Open to discussions on RecSys, ML optimization, and efficient AI!  
