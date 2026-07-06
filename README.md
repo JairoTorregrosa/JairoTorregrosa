@@ -16,9 +16,9 @@ I build the engineering layer around AI models: agents, tools, context, evals, t
 ## Selected work
 
 - **[jaiskills](https://github.com/JairoTorregrosa/jaiskills)**: Claude Code skills and plugins, including Insistir, a multi-agent orchestration workflow where agents implement, review, revise, and judge work before it is accepted.
-- **[latamgpt-evals](https://github.com/JairoTorregrosa/latamgpt-evals)**: LatamGPT GGUF evaluation harness and public benchmark documentation.
-- **[taste-with-your-eyes](https://github.com/JairoTorregrosa/taste-with-your-eyes)**: An AI product experiment around multimodal menu understanding and generated visual experiences.
 - **[SmolNews](https://github.com/JairoTorregrosa/SmolNews)**: A small agent running as a Hugging Face Space that fetches news and local time for a requested place.
+
+Some applied research and product experiments are private while I clean up documentation, permissions, and public-safe examples.
 
 ## Background
 
