@@ -1,34 +1,24 @@
 # Jairo Torregrosa
 
-**Senior AI Research Engineer at Mercado Libre**  
-**Claude Community Ambassador in Bogotá · Agentic Engineering**
+Senior AI Research Engineer @ Mercado Libre · Claude Community Ambassador, Bogotá
 
-I work on agents, evaluation, tool use, Claude Code workflows, and production-oriented AI systems.
+I build agent tooling in Rust and measure whether it actually works.
 
-## Focus
+## Shipping
 
-- Agentic engineering
-- Agent and LLM evaluation
-- Claude Code skills, plugins, and developer tooling
-- Tool-use workflows and MCP-style integrations
-- AI for software engineering
-- Production AI reliability, observability, latency, and cost
-
-## Public work
-
-- **[jaiskills](https://github.com/JairoTorregrosa/jaiskills)**: Claude Code skills and plugins, including Insistir, a multi-agent workflow for implementation, review, revision, and judging.
-- **[SmolNews](https://github.com/JairoTorregrosa/SmolNews)**: A small agent running as a Hugging Face Space that fetches news and local time for a requested place.
-- **[Taste with Your Eyes](https://taste-with-your-eyes.vercel.app/)**: Public app for turning restaurant menus into visual digital experiences.
+- **[askcodex](https://github.com/JairoTorregrosa/askcodex)** — ask OpenAI's models from your terminal. One-shot text and images, zero configuration.
+- **[merma](https://github.com/JairoTorregrosa/merma)** — AI-subscription waste meter: the dollars you leave unused in your Claude Code and Codex plans.
+- **[claude-statusline](https://github.com/JairoTorregrosa/claude-statusline)** — fast Rust statusline for Claude Code, ~10ms renders.
+- **[sumidero](https://github.com/JairoTorregrosa/sumidero)** — DNS blocker for your network: one binary, one TOML config, no web UI.
+- **[jaiskills](https://github.com/JairoTorregrosa/jaiskills)** — agents checking agents: multi-agent orchestration plugin for Claude Code.
+- **[crea-tu-web](https://github.com/JairoTorregrosa/crea-tu-web)** — skills kit so small businesses can build their website with AI, no coding required.
 
 ## Background
 
-- Production machine learning, recommender systems, ranking, and computer vision.
-- B.S. Electronic Engineering, Pontificia Universidad Javeriana.
-- IEEE STSIVA 2019 paper: **"Comparing state-of-the-art methods of detection and tracking people on security cameras video."**
+Production ML at scale: recommender systems, ranking, computer vision.
+B.S. Electronic Engineering, Pontificia Universidad Javeriana.
+IEEE STSIVA 2019: ["Comparing state-of-the-art methods of detection and tracking people on security cameras video."](https://scholar.google.com/citations?user=FIWQcPoAAAAJ&hl=es)
 
 ## Links
 
-- Website: [jairotorregrosa.com](https://jairotorregrosa.com)
-- LinkedIn: [linkedin.com/in/torregrosaj](https://www.linkedin.com/in/torregrosaj/)
-- Google Scholar: [Jairo Torregrosa](https://scholar.google.com/citations?user=FIWQcPoAAAAJ&hl=es)
-- Hugging Face: [huggingface.co/jairo](https://huggingface.co/jairo)
+[jairotorregrosa.com](https://jairotorregrosa.com) · [LinkedIn](https://www.linkedin.com/in/torregrosaj/) · [Google Scholar](https://scholar.google.com/citations?user=FIWQcPoAAAAJ&hl=es) · [Hugging Face](https://huggingface.co/jairo)
