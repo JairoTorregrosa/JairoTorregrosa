@@ -10,6 +10,7 @@ I build agent tooling in Rust and measure whether it actually works.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-121212?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
+<!-- repos:start -->
 ## Start Here
 
 - ⚡ **[askcodex](https://github.com/JairoTorregrosa/askcodex)** — ask OpenAI's models from your terminal. One-shot text and images, zero configuration.
@@ -24,6 +25,7 @@ I build agent tooling in Rust and measure whether it actually works.
 ## Community
 
 - 🌐 **[crea-tu-web](https://github.com/JairoTorregrosa/crea-tu-web)** — skills kit so small businesses can build their website with AI, no coding required (Hispanic Affairs Project workshop).
+<!-- repos:end -->
 
 ## Background
 
