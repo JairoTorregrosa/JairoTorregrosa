@@ -15,7 +15,7 @@ I build agent tooling in Rust and measure whether it actually works.
 
 - ⚡ **[askcodex](https://github.com/JairoTorregrosa/askcodex)** — ask OpenAI's models from your terminal. One-shot text and images, zero configuration.
 - 💸 **[merma](https://github.com/JairoTorregrosa/merma)** — AI-subscription waste meter: the dollars you leave unused in your Claude Code and Codex plans.
-- 🤖 **[jaiskills](https://github.com/JairoTorregrosa/jaiskills)** (10⭐) — all my agent skills as one Claude Code plugin: agents checking agents, verification-first orchestration, OpenAI tooling.
+- 🤖 **[jaiskills](https://github.com/JairoTorregrosa/jaiskills)** (11⭐) — all my agent skills as one Claude Code plugin: agents checking agents, verification-first orchestration, OpenAI tooling.
 
 ## CLIs & Daemons (Rust)
 
